@@ -1,0 +1,8 @@
+{
+  "name": "node-csi",
+  "version": "1.0.0",
+  "description": "Provides a small suite of CSI ANSI functions and constants",
+  "main": "./lib/csi.js",
+  "author": "Brielle Harrison <nyteshade@gmail.com>",
+  "license": "MIT"
+}
