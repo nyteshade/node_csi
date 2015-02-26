@@ -8,7 +8,7 @@ I'm honestly not sure if this version is at all the way I'd like to continue usi
 
 ### Version
 
-1.0.1 - This is essentially the first commit and provides basic functionality with very little documentation or extensibility.
+1.0.2 - This is essentially the first commit and provides basic functionality with very little documentation or extensibility.
 
 ### Potential Plans
 
